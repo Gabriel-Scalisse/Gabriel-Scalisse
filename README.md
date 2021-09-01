@@ -1,7 +1,7 @@
  <div>
   <a href="https://github.com/Gabriel-Scalisse">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Scalisse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Scalisse&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Scalisse&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Scalisse&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,7 @@
   <img align="center" alt="gabriel-Django" height="80" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="gabriel-TensorFlow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="gabriel-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg">
-  <img align="right" alt="gabriel-yoda" src="">
+  ##<img align="right" alt="gabriel-yoda" src="">
 </div>
   
   ##
